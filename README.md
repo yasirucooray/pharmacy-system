@@ -11,7 +11,8 @@
 
 1. Clone the project
 2. run Composer Install
-3. Run migrations and seeders
-4. Their are 3 users alrady created in seeders for 3 user roles.
-5. Add api collection for postman
-6. run the project
+3. setup .env file and add db details(MySql)
+4. Run migrations and seeders
+5. Their are 3 users alrady created in seeders for 3 user roles.
+6. Add api collection for postman
+7. run the project
